@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 text
+text_second_
+=======
+text
+text_second_
+>>>>>>> branch_new
